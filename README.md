@@ -1,12 +1,11 @@
 <div align="center">
-  <img src=".github/hero.svg" width="100%" alt="Software, crafted with intent." />
+  <img src=".github/hero-light.svg#gh-light-mode-only" width="100%" alt="Software, crafted with intent." />
+  <img src=".github/hero-dark.svg#gh-dark-mode-only" width="100%" alt="Software, crafted with intent." />
 </div>
 
 <br/>
 
-Sou **desenvolvedor** em **[cidade]**. Passo os dias **[o que você realmente faz — seja específico: "construindo backends que aguentam tráfego real" / "automatizando o que ninguém quer fazer à mão" / etc.]**, e as noites **[um detalhe verdadeiro: "lendo código-fonte de bibliotecas que uso" / "quebrando coisas em containers" / etc.]**.
-
-Cuido de software como um marceneiro cuida de uma junta: ela deve ser invisível, estrutural, e feita para durar mais que quem a fez.
+Sou **desenvolvedor full stack** em **São Paulo**. Trabalho tanto no que as pessoas veem quanto no que acontece por trás. Gosto de entender como as coisas se conectam e de fazer software bem feito, sem complicações ou excessos.
 
 <br/>
 
@@ -14,33 +13,24 @@ Cuido de software como um marceneiro cuida de uma junta: ela deve ser invisível
 
 <h3><code>§ 01</code> &nbsp; Now</h3>
 
-**Building** &nbsp;·&nbsp; [projeto específico, uma linha]
-**Learning** &nbsp;·&nbsp; [coisa específica, uma linha]
-**Reading** &nbsp;·&nbsp; [livro, uma linha]
-**Open to** &nbsp;·&nbsp; [o que você está aberto — colaborações, conversas, freelance]
+**Building** &nbsp;·&nbsp; meu portfólio pessoal — Next.js, Tailwind, e obsessão pelo detalhe.
+**Learning** &nbsp;·&nbsp; Laravel e PHP, o outro lado do que já faço em JavaScript.
+**Reading** &nbsp;·&nbsp; *Refactoring UI*, de Adam Wathan e Steve Schoger.
+**Open to** &nbsp;·&nbsp; freelance, contratos e oportunidades.
 
-<sub><i>Última atualização em [mês/ano].</i></sub>
+<sub><i>Última atualização em outubro de 2026.</i></sub>
 
 ---
 
-<h3><code>§ 02</code> &nbsp; Selected Work</h3>
+<h3><code>§ 02</code> &nbsp; On Private Work</h3>
 
-**[Nome do projeto]** — [uma linha sobre o problema e a solução, sem hype].
-`Stack` · `Stack` · [`→`](link)
-
-**[Nome do projeto]** — [uma linha sobre o problema e a solução, sem hype].
-`Stack` · `Stack` · [`→`](link)
-
-**[Nome do projeto]** — [uma linha sobre o problema e a solução, sem hype].
-`Stack` · `Stack` · [`→`](link)
-
-<sub>Índice completo em [github.com/seu-usuario](https://github.com/seu-usuario?tab=repositories).</sub>
+Os projetos que mais dizem sobre mim estão em repositórios privados ou sob NDA. Em vez de encher esta seção com links que ninguém consegue abrir, prefiro ser direto: [me manda uma mensagem](mailto:luiz.profissional2008@gmail.com) e eu conto, com detalhes, o que já construí — e o que estou construindo agora.
 
 ---
 
 <h3><code>§ 03</code> &nbsp; Correspondence</h3>
 
-[LinkedIn](https://www.linkedin.com/in/luizg-almeida/) &nbsp;·&nbsp; [Email](mailto:seu@email.com) &nbsp;·&nbsp; [GitHub](https://github.com/seu-usuario)
+[LinkedIn](https://www.linkedin.com/in/luizg-almeida/) &nbsp;·&nbsp; [Email](mailto:luiz.profissional2008@gmail.com) &nbsp;·&nbsp; [GitHub](https://github.com/Luizsx-x)
 
 <br/>
 
