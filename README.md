@@ -24,7 +24,7 @@ Sou **desenvolvedor full stack** em **São Paulo**. Trabalho tanto no que as pes
 
 <h3><code>§ 02</code> &nbsp; On Private Work</h3>
 
-Os projetos que mais dizem sobre mim estão em repositórios privados ou sob NDA. Em vez de encher esta seção com links que ninguém consegue abrir, prefiro ser direto: [me manda uma mensagem](mailto:luiz.profissional2008@gmail.com) e eu conto, com detalhes, o que já construí — e o que estou construindo agora.
+Os projetos que mais dizem sobre mim estão em repositórios privados ou sob NDA. Em vez de encher esta seção com links que ninguém consegue abrir, prefiro ser direto: [me manda uma mensagem](mailto:luiz.profissional2008@gmail.com) e eu conto, com detalhes, o que já construí, e o que estou construindo agora.
 
 ---
 
