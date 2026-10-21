@@ -13,9 +13,9 @@ Sou **desenvolvedor full stack** em **São Paulo**. Trabalho tanto no que as pes
 
 <h3><code>§ 01</code> &nbsp; Now</h3>
 
-**Building** &nbsp;·&nbsp; meu portfólio pessoal — Next.js, Tailwind, e obsessão pelo detalhe.
+**Building** &nbsp;·&nbsp; meu portfólio pessoal | Next.js, Tailwind, HTML.
 **Learning** &nbsp;·&nbsp; Laravel e PHP, o outro lado do que já faço em JavaScript.
-**Reading** &nbsp;·&nbsp; *Refactoring UI*, de Adam Wathan e Steve Schoger.
+**Reading** &nbsp;·&nbsp; *Head First PHP & MySQL*, de Michael Morrison.
 **Open to** &nbsp;·&nbsp; freelance, contratos e oportunidades.
 
 <sub><i>Última atualização em outubro de 2026.</i></sub>
