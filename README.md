@@ -19,7 +19,7 @@
 
 <h3><code>§ 01</code> &nbsp; Sobre</h3>
 
-Trabalho com desenvolvimento full stack, tanto no que as pessoas veem (front-end) quanto no que acontece por trás (back-end). Gosto de entender como as peças se conectam e de entregar software bem feito, sem complicação. Meus projetos mais relevantes estão em repositórios privados ou sob NDA, mas estou sempre aberto a conversar sobre o que já construí e o que estou construindo agora.
+Trabalho com desenvolvimento full stack, tanto no que as pessoas veem (front-end) quanto no que acontece por trás (back-end). Gosto de entender como as peças se conectam e de entregar software bem feito, sem complicação. Recentemente comecei a estruturar meu perfil no GitHub para documentar meus estudos e projetos públicos, enquanto meus projetos mais robustos seguem em repositórios privados ou sob NDA.
 
 <br/>
 
@@ -33,14 +33,14 @@ Trabalho com desenvolvimento full stack, tanto no que as pessoas veem (front-end
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Estudando / Iniciante** &nbsp;·&nbsp; Em aprendizado ativo, nível inicial.
-
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+**Estudando / Iniciante** &nbsp;·&nbsp; Em aprendizado ativo, nível inicial.
+
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 
@@ -55,6 +55,8 @@ Trabalho com desenvolvimento full stack, tanto no que as pessoas veem (front-end
 **Reading** &nbsp;·&nbsp; *Head First PHP & MySQL*, de Michael Morrison.<br/>
 **Open to** &nbsp;·&nbsp; freelance, contratos e oportunidades.
 
+<sub><i>Última atualização em outubro de 2026.</i></sub>
+
 <br/>
 
 ---
@@ -67,18 +69,7 @@ Os projetos que mais dizem sobre mim estão em repositórios privados ou sob NDA
 
 ---
 
-<h3><code>§ 05</code> &nbsp; GitHub Stats</h3>
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Luizsx-x&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_title=true&locale=pt-br" alt="Estatísticas do GitHub de Luizsx-x" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luizsx-x&layout=compact&theme=github_dark&langs_count=6&locale=pt-br" alt="Linguagens mais usadas" />
-</p>
-
-<br/>
-
----
-
-<h3><code>§ 06</code> &nbsp; Correspondence</h3>
+<h3><code>§ 05</code> &nbsp; Correspondence</h3>
 
 [LinkedIn](https://www.linkedin.com/in/luizg-almeida/) &nbsp;·&nbsp; [Email](mailto:luiz.profissional2008@gmail.com) &nbsp;·&nbsp; [GitHub](https://github.com/Luizsx-x)
 
